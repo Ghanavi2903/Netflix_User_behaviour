@@ -1,5 +1,5 @@
 """
-Netflix Customer Churn Prediction Dashboard.
+Netflix Customer Churn Prediction Dashboard.Predict user behaviour.
 Run: streamlit run app.py
 """
 import sys
